@@ -1,3 +1,7 @@
+create database banco_de_dados_steam;
+
+use banco_de_dados_steam;
+
 CREATE TABLE steam (
     APP_ID INT,
     APP_name VARCHAR(255),
