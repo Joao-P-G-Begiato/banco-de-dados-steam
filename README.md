@@ -22,7 +22,8 @@ entramos em acordo em selecionar dados relevantes e informações claras e objet
 * **Raphael Gomes** - *Gestor de Conhecimento* (https://github.com/RaaphaelGomesS)
 * **Isaac Lages Costa** - *Gestor de gente e engajamento* - (https://github.com/systemilc)
 * **Roberta Da Silva Oliveira** - *Colaboradora* - (https://github.com/RobertaOliveira07)
-* **simone Luiz Da Silva** - *colaboradora* - (https://github.com/SimoneLuiz)
+* **Simone Luiz Da Silva** - *Colaboradora* - (https://github.com/SimoneLuiz)
+=======
 
 ## 🎁 Expressões de gratidão
 
