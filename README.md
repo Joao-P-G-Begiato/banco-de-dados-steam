@@ -14,8 +14,66 @@
 
 ## :rocket: Desenvolvimento
 Escolhemos o tema da steam que é um software que fornece serviços facilitados como atualização automática de jogos , desde o inicio 
-entramos em acordo em selecionar dados relevantes e informações claras e objetivas. Nossa idéia e poder fornecer informações para os 
-usuários relevantes e objetivas. 
+entramos em acordo em selecionar dados relevantes e informações claras e objetivas. 
 
+## :handshake: Colaboradores
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Joao-P-G-Begiato">
+        <sub>
+          <b>Joao Paulo</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/RaaphaelGomesS">
+        <sub>
+          <b>Raphael Gomes</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/RobertaOliveira07">
+        <sub>
+          <b>Roberta Oliveira</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/systemilc">
+        <sub>
+          <b>Isaac Costa</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/SimoneLuiz">
+        <sub>
+          <b>Simone Luiz</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
