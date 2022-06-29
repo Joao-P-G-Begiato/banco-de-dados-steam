@@ -10,8 +10,12 @@
 ## :wrench: Tecnologias utilizadas
 * MySQL Workbench
 * Canva
+* Excel
 
-## :rocket: Imagens apresentação do projeto
-<img src="https://drive.google.com/drive/u/0/folders/1Oc4Rxbvc8Td-r-Aalqe_BSjJh4vxYCuD;"/><br>
- 
+## :rocket: Desenvolvimento
+Escolhemos o tema da steam que é um software que fornece serviços facilitados como atualização automática de jogos , desde o inicio 
+entramos em acordo em selecionar dados relevantes e informações claras e objetivas. Nossa idéia e poder fornecer informações para os 
+usuários relevantes e objetivas. 
+
+
 
