@@ -1,10 +1,10 @@
 # banco-de-dados-steam
-<h1 align="center">:file_cabinet: Projeto de Final de Módulo 3</h1>
+<h1 align="center">:file_cabinet: Projeto de Final de Módulo 3 - Time 07</h1>
 
 ## :memo: Propostas do projeto:
 * Excecutar uma análise exploratória dos dados
 * Modelar tabelas para um banco de dados MySQL
-* Desenvolver Queries
+* Desenvolver Queries - Relevantes e com Capacidade Análitica 
 * realizar a verificação dos dados removendo dados excessivos
 
 ## :wrench: Tecnologias utilizadas
@@ -16,64 +16,21 @@
 Escolhemos o tema da steam que é um software que fornece serviços facilitados como atualização automática de jogos , desde o inicio 
 entramos em acordo em selecionar dados relevantes e informações claras e objetivas. 
 
+
 ## :handshake: Colaboradores
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Joao-P-G-Begiato">
-        <sub>
-          <b>Joao Paulo</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
+* **Joao Paulo Begiato** - *Co-Facilitador* - (https://github.com/Joao-P-G-Begiato)
+* **Raphael Gomes** - *Gestor de Conhecimento* (https://github.com/RaaphaelGomesS)
+* **Isaac Lages Costa** - *Gestor de gente e engajamento* - (https://github.com/systemilc)
+* **Roberta Da Silva Oliveira** - *Colaboradora* - (https://github.com/RobertaOliveira07)
+* **simone Luiz Da Silva ** - *colaboradora  * - (https://github.com/SimoneLuiz)
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/RaaphaelGomesS">
-        <sub>
-          <b>Raphael Gomes</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
+## 🎁 Expressões de gratidão
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/RobertaOliveira07">
-        <sub>
-          <b>Roberta Oliveira</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
+* Obrigado publicamente  ao nosso Facilitador Tech por contribuir com momentos de motivação e sanar dúvidas do projeto 
+no desenvolvimento dele.📢 
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/systemilc">
-        <sub>
-          <b>Isaac Costa</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
+* Obrigado publicamente a Nossa Facilitadora Anna Por contribuir com nossos conhecimentos Soft para
+podermos realizar um trabalho em equipe agrádavel.🤓
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/SimoneLuiz">
-        <sub>
-          <b>Simone Luiz</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
+## 📄 Licença
+Projeto desenvolvido pelo time 07 - Turma 18 - bootcamp Resilia Educação ℗ 2022. 
