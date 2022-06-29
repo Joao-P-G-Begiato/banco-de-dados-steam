@@ -1,25 +1,34 @@
-create database banco_de_dados_steam;
+create database steam ;
 
-use banco_de_dados_steam;
+use steam;
 
-CREATE TABLE steam (
-    APP_ID INT,
-    APP_name VARCHAR(255),
-    Release_date VARCHAR(20),
-    English_language VARCHAR(3),
-    Developer VARCHAR(255),
+CREATE TABLE steam_main (
+    app_id INT,
+    app_name VARCHAR(255),
+    realease_date VARCHAR(12),
+    required_age VARCHAR(3),
+    categories VARCHAR(255),
+    genres VARCHAR(255),
+    PRIMARY KEY (app_id)
+);
+
+CREATE TABLE steam_ux (
+    app_id INT,
+    achievements VARCHAR(5),
+    positive_ratings VARCHAR(7),
+    negative_ratings VARCHAR(7),
+    average_playtime VARCHAR(7),
+    FOREIGN KEY (app_id)
+        REFERENCES steam_main (app_id)
+);
+
+CREATE TABLE steam_developers (
+    app_id INT,
+    developer VARCHAR(255),
     publisher VARCHAR(255),
-    Plataforms VARCHAR(22),
-    Required_Age VARCHAR(3),
-    Categories VARCHAR(255),
-    Genres VARCHAR(255),
-    Steamspy_tags VARCHAR(255),
-    Achievements VARCHAR(6),
-    positive_ratings VARCHAR(10),
-    negative_ratings VARCHAR(10),
-    average_playtime VARCHAR(10),
-    median_playtime VARCHAR(10),
-    owners VARCHAR(20),
-    price_usdt VARCHAR(8),
-    price_real VARCHAR(11)
+    owners VARCHAR(22),
+    price_usdt VARCHAR(10),
+    price_brl VARCHAR(10),
+    FOREIGN KEY (app_id)
+        REFERENCES steam_main (app_id)
 )
