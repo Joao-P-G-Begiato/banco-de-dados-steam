@@ -1,3 +1,4 @@
+# pergunta: qual o ranking dos jogos por avaliações positivas?
 SELECT 
     steam_main.app_name, steam_ux.positive_ratings
 FROM

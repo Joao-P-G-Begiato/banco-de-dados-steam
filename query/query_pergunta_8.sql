@@ -1,21 +1,21 @@
 /*quais foram as empresas que desenvolveram mais jogos?*/
 
 SELECT 
-    COUNT(developer), developer
+developer, COUNT(app_id) as quantidade
 FROM
     steam_developers
 
 GROUP BY developer
 
-ORDER BY COUNT(developer) desc;
+ORDER BY COUNT(app_id) desc;
 
 /*quais foram as empresas que publicaram mais jogos?*/
 
 SELECT 
-    COUNT(publisher), publisher
+    publisher, COUNT(app_id) as quantidade
 FROM
     steam_developers
     
 GROUP BY publisher
 
-ORDER BY COUNT(publisher) desc;
+ORDER BY COUNT(app_id) desc;

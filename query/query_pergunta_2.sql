@@ -1,3 +1,4 @@
+# pergunta: qual o ranking dos jogos por avaliações negativas?
 SELECT 
     steam_main.app_name, steam_ux.negative_ratings
 FROM

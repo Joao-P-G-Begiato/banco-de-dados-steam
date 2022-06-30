@@ -1,3 +1,4 @@
+# pergunta: qual ranking de genêros por tempo médio de jogo?
 SELECT 
     steam_main.genres, steam_ux.average_playtime
 FROM
