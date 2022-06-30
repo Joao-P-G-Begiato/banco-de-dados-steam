@@ -24,12 +24,13 @@ entramos em acordo em selecionar dados relevantes e informações claras e objet
 * **Roberta Da Silva Oliveira** - *Colaboradora* - (https://github.com/RobertaOliveira07)
 * **Simone Luiz Da Silva** - *Colaboradora* - (https://github.com/SimoneLuiz)
 
+
 ## 🎁 Expressões de gratidão
 
-* Obrigado publicamente  ao nosso Facilitador Tech por contribuir com momentos de motivação e sanar dúvidas do projeto 
+* Obrigado publicamente  ao nosso Facilitador Tech Léo Costa por contribuir com momentos de motivação e sanar dúvidas do projeto 
 no desenvolvimento dele.📢 
 
-* Obrigado publicamente a Nossa Facilitadora Anna Por contribuir com nossos conhecimentos Soft para
+* Obrigado publicamente a Nossa Facilitadora Soft Anna Por contribuir com nossos conhecimentos Soft para
 podermos realizar um trabalho em equipe agrádavel.🤓
 
 ## 📄 Licença
