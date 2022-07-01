@@ -24,6 +24,35 @@ entramos em acordo em selecionar dados relevantes e informações claras e objet
 * **Roberta Da Silva Oliveira** - *Colaboradora* - (https://github.com/RobertaOliveira07)
 * **Simone Luiz Da Silva** - *Colaboradora* - (https://github.com/SimoneLuiz)
 
+## 📄 Gráficos
+
+<p align="center">
+    <img width="700px" src="./Graficos/1.webp">
+</p>
+<p align="center">
+    <img width="700px" src="./Graficos/2.webp">
+</p>
+<p align="center">
+    <img width="700px" src="./Graficos/3.webp">
+</p>
+<p align="center">
+    <img width="700px" src="./Graficos/4.webp">
+</p>
+<p align="center">
+    <img width="700px" src="./Graficos/5.webp">
+</p>
+<p align="center">
+    <img width="700px" src="./Graficos/6.webp">
+</p>
+<p align="center">
+    <img width="700px" src="./Graficos/7.webp">
+</p>
+<p align="center">
+    <img width="700px" src="./Graficos/8.webp">
+</p>
+
+
+
 
 ## 🎁 Expressões de gratidão
 
